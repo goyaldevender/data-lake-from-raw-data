@@ -38,7 +38,7 @@ log_data/2018/11/2018-11-13-events.json`
 
 ## Schema for Song Play Analysis
 Using the song and log datasets, you'll need to create a star schema optimized for queries on song play analysis. This includes the following tables.
-![log data image](./image/ER Diagram.png)
+![ER Diagram image](./image/ER Diagram.png)
 
 ### Fact Table
 1. songplays - records in log data associated with song plays i.e. records with page NextSong
